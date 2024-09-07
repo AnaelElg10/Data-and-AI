@@ -1,2 +1,2 @@
 # Data-and-AI
-Insights and innovation projects through data and artificial intelligence solutions
+Data and Artificial Intelligence Projects
